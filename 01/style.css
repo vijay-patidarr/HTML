@@ -11,4 +11,14 @@ display: flex;
     align-items: center;
     background-color: white;
     border-radius: 20px;
+    display: flex;
+    justify-content: center;
+
+align-items: flex-start;}
+.box{
+    width: 30vw;
+    height: 30vh;
+    background-color: rgb(9, 118, 244);
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
