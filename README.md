@@ -1,4 +1,2 @@
 # HTML
-all i learn about HTML is here 
-<br>
-hello im Vijay Patidar
+As i known full HTML & CSS so i'm just revising it and then i start JS series
