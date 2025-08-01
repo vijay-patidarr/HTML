@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-size: 24px;
 }
 .navigation ul {
     background-color: black;
@@ -9,7 +10,17 @@
     display: flex;
 }
 .navigation ul li{
-margin: 20px;
+margin: 15px;
 padding-left: 80px;
+}
+.main{
+    margin-right: 20px;
+    display: flex;
+    font: 26px;
+}
+.list{
+    adisplay: flex;
+justify-content: space-between ;
+    align-items: center;
 }
  
