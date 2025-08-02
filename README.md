@@ -33,8 +33,8 @@ As part of becoming a stronger frontend developer, I want to:
 | Day  | ✅ Status | 📂 Folder | 📝 Summary |
 |------|----------|-----------|------------|
 | Day 01 | ✅ Done      | [day01-profile-card](./day01-profile-card) | Learned selectors & box model |
-| Day 02 | ✅ Done      | [day02-pricing-card](./day02-pricing-card) | Practiced units and sizing |
-| Day 03 | ⏳ In Progress | [day03-navbar](./day03-navbar) | Display types: inline/block |
+| Day 02 | ⏳ In Progress     | [day02-pricing-card](./day02-pricing-card) | Practiced units and sizing |
+| Day 03 | ⬜ Not Started | [day03-navbar](./day03-navbar) | Display types: inline/block |
 | Day 04 | ⬜ Not Started | `day04-sticky-header` | Positioning and `z-index` |
 | Day 05 | ⬜ Not Started | `day05-flex-cards` | Flexbox basics |
 | Day 06 | ⬜ Not Started | `day06-navbar-flex` | Flexbox layout project |
