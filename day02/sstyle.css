@@ -19,8 +19,7 @@ padding-left: 80px;
     font: 26px;
 }
 .list{
-    adisplay: flex;
+    display: flex;
 justify-content: space-between ;
     align-items: center;
 }
- 
